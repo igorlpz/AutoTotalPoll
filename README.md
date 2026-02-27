@@ -1,4 +1,4 @@
-# autoVotoTotalPoll
+# AutoTotalPoll
 
 Es una aplicacion de Python creada con fines educativos que vota automáticamente y de forma continua en encuestas creadas con el plugin **TotalPoll** de WordPress.
 
@@ -14,8 +14,8 @@ Es una aplicacion de Python creada con fines educativos que vota automáticament
 ### 1. Clona o descarga el proyecto
 
 ```bash
-git clone 
-cd autoVotoTotalPoll
+git clone https://github.com/igorlpz/AutoTotalPoll.git
+cd AutoTotalPoll
 ```
 
 ### 2. Instala las dependencias
